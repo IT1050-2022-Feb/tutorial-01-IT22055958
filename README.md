@@ -49,7 +49,7 @@ sum = 1+2+3+...+10 = 55
 ```
 Program File - [Tute03.c](Tute03.c)
 
-## Exercise 4 - Function
+## Exercise 4 - Functions
 
 Implement the three functions ```minimum()```, ```maximum()``` and ```multiply()``` below the ```main()``` function.
 
